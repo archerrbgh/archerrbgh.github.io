@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
+### Who am I?
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently in my final semester at USC, where I am obtaining my Master's degree in Computer Science, with a focus on Data Science. I did my undergraduate studies at UC San Diego, where I received my Bachelor's degree in Applied Mathematics along with a minor in Computer Science.
+
+I enjoy working on Artificial Intelligence projects, especially those using Machine Learning.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[azehwang@gmail.com](mailto:azehwang@gmail.com)
