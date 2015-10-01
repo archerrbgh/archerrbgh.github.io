@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: In the beginning...
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Hey there!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+My name is Andrew Hwang, and I am currently in my final semester at USC, where I am getting my Master's in Computer Science, with a focus on Data Science.
+
+I'm hoping to use this website/blog as a way to talk about some of the work I am doing (both general software engineering and data science) or random thoughts I have on random things. Hope you enjoy the upcoming content!
