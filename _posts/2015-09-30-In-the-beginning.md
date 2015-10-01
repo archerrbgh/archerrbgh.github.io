@@ -2,8 +2,6 @@
 published: true
 ---
 
-## In the beginning...
-
 Hey there!
 
 My name is Andrew Hwang, and I am currently in my final semester at USC, where I am getting my Master's in Computer Science, with a focus on Data Science.
