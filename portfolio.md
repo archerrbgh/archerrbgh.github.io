@@ -6,7 +6,8 @@ published: true
 ---
 
 
-#Projects
+
+##Projects
 
 ###Analysis of Serious Game
 ####MIT Lincoln Laboratory (Lexington, MA)
@@ -27,3 +28,27 @@ Using a modified form of Google's PageRank algorithm, a rudimentary power rankin
 ###Wine Website
 ####UC San Diego CSE 110(La Jolla, CA)
 Worked in group of 10 to create a wine inventory and recommendation website for software engineering class. The website was primarily built using Python, Flask, HTML, Javascript, and CSS. Recommendations were made based on wines in the user's inventory and wishlist. The website was voted as the best project in the class, out of 20 total projects.
+
+##Coursework
+###USC
+####Completed
+*Analysis of Algorithms (CSCI 570)
+*Foundations of Artificial Intelligence (CSCI 561)
+*Database Systems (CSCI 585)
+*Machine Learning for Data Informatics (INF 552)
+*Information Retrieval and Search Engines (CSCI 572)
+*Web Technologies (CSCI 571)
+####In Progress
+*Advanced Data Stores (CSCI 550)
+*Analytics of Social Media (CSCI 599)
+*Computer Science Research Colloquium (CSCI 591)
+
+###UC San Diego
+*Introduction to Mathematical Statistics (MATH 181A)
+*Introduction to Probability (MATH 180A)
+*Introduction to Stochastic Processes (MATH 180B-C)
+*Mathematical Modeling (MATH 111A-B)
+*Software Engineering (CSE 110)
+*Advanced Data Structures (CSE 100)
+*Design and Analysis of Algorithms (CSE 101)
+*Introduction to Artificial Intelligence: Statistical Approaches (CSE 151)
