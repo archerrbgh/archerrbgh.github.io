@@ -38,6 +38,7 @@ Worked in group of 10 to create a wine inventory and recommendation website for 
 - Machine Learning for Data Informatics (INF 552)
 - Information Retrieval and Search Engines (CSCI 572)
 - Web Technologies (CSCI 571)
+
 ####In Progress
 - Advanced Data Stores (CSCI 550)
 - Analytics of Social Media (CSCI 599)
